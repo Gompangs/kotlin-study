@@ -1,4 +1,4 @@
-package ch1
+package main.java.ch1
 
 import kotlin.test.assertNotEquals
 

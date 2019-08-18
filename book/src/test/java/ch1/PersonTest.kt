@@ -1,4 +1,4 @@
-package ch1
+package test.java.ch1
 
 import org.junit.jupiter.api.Assertions.*
 
